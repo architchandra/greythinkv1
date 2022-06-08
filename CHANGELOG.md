@@ -4,7 +4,7 @@ Release notes for the Greythink.in website.
 
 
 
-## 2.0.0 - 2021-04-06
+## 1.1.0 - 2021-04-06
 
 ### Added
 - Converted the website to static files.
