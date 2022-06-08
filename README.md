@@ -1,3 +1,1 @@
-# Greythink.in v1
-
-The first version of the Greythink.in website.
+The business website of [Greythink.in](https://greythink.in).
