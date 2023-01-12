@@ -4,6 +4,14 @@ Release notes for the Greythink.in website.
 
 
 
+## Unreleased
+
+### Added
+- Created layouts for pages other than the homepage.
+- Created the *Privacy Policy and Terms of Service* page.
+
+
+
 ## 1.1.0 - 2021-04-06
 
 ### Added
