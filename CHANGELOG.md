@@ -12,6 +12,16 @@ Release notes for the Greythink.in website.
 
 
 
+## 1.2.0 - 2022-06-08
+
+### Added
+- Recreated the site on Eleventy.
+
+### Removed
+- Removed the site from Glitch.
+
+
+
 ## 1.1.0 - 2021-04-06
 
 ### Added
