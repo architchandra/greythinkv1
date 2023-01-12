@@ -275,4 +275,4 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 20. Contact Us
 
-‍If you have any questions about this Privacy Policy, please contact us by email: privacy [at] greythink [dot] in.
+‍If you have any questions about this Privacy Policy, please contact us by email: *privacy [at] greythink [dot] in*.
