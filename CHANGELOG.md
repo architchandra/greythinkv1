@@ -4,7 +4,7 @@ Release notes for the Greythink.in website.
 
 
 
-## Unreleased
+## 1.3.1 - 2023-01-12
 
 ### Added
 - Added navigation from info pages to the homepage.
