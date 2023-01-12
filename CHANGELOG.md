@@ -4,7 +4,7 @@ Release notes for the Greythink.in website.
 
 
 
-## Unreleased
+## 1.3.0 - 2023-01-12
 
 ### Added
 - Created layouts for pages other than the homepage.
