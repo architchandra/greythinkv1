@@ -8,7 +8,7 @@ Release notes for the Greythink.in website.
 
 ### Added
 - Created layouts for pages other than the homepage.
-- Created the *Privacy Policy and Terms of Service* page.
+- Created the ability to create info pages.
 
 
 
