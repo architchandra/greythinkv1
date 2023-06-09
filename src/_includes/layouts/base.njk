@@ -1,29 +1,45 @@
-{% set seoTitle = 'Greythink Labs - A Website Development Studio in Delhi, India' %}
-
-
-
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-IN" prefix="og: http://ogp.me/ns#">
   <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>
-        {{ seoTitle }}
-    </title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    {# Fonts #}
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&family=Mali:wght@600;700&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+    <title>Greythink Labs - Don&#039;t be rigid.</title>
 
-    {# CSS #}
-    <link rel="stylesheet" href="{{ 'build/style.css'|version }}">
+    <meta name="description" content="Don&#039;t be rigid." />
+    <link rel="canonical" href="https://greythink.in/" />
+    <meta property="og:locale" content="en_IN" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Greythink Labs - Don&#039;t be rigid." />
+    <meta property="og:description" content="Don&#039;t be rigid." />
+    <meta property="og:url" content="https://greythink.in/" />
+    <meta property="og:site_name" content="Greythink Labs" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:description" content="Don&#039;t be rigid." />
+    <meta name="twitter:title" content="Greythink Labs - Don&#039;t be rigid." />
+
+    <link rel="dns-prefetch" href="//stackpath.bootstrapcdn.com" />
+    <link rel="dns-prefetch" href="//fonts.googleapis.com" />
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=IM+Fell+DW+Pica%7CSource+Sans+Pro%3A300%2C400%2C700%7CLato%3A300%2C400%2C700%7CPlayfair+Display%3A900i&#038;ver=1.0.0" type="text/css" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css?ver=4.2.1" type="text/css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous" />
+    <link rel="stylesheet" href="{{ 'build/style.css'|version }}" type="text/css" />
   </head>
   
   <body>
     <main id="main-content" tabindex="-1">
         {{- content|safe -}}
     </main>
+
+    <footer class="site-footer container">
+      <div class="row row-footer-copyright">
+        <div class="col-md-1"></div>
+        <div class="col-10">
+          &copy;2023 GreyThink Labs. All rights reserved.
+        </div>
+        <div class="col-md-1"></div>
+      </div>
+    </footer>
+    <!-- footer container -->
   </body>
 </html>
