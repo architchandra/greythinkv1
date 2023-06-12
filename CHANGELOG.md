@@ -4,6 +4,27 @@ Release notes for the Greythink.in website.
 
 
 
+## Unreleased
+
+### Added
+- Added a couple of new work examples.
+
+### Fixed
+- Fixed all broken links.
+
+### Changed
+- Improved the copy across the website.
+- Improved the markup of homepage elements such that it is semantically correct.
+- Improved the spacing, sizing and colours of most homepage elements.
+
+### Removed
+- Removed unused Terms and Privacy pages.
+- Removed templates and code that supported the unused pages.
+- Removed unused classes and CSS.
+- Removed outdated work examples.
+
+
+
 ## 1.3.1 - 2023-01-12
 
 ### Added
