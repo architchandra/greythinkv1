@@ -6,10 +6,6 @@
 p {
   margin-bottom: 0;
 }
-a,
-a:visited {
-  color: #8c1515;
-}
 svg {
   fill: currentColor;
 }
@@ -29,19 +25,15 @@ body {
 h1,
 h2,
 h3,
-h4,
-h5,
-h6 {
+h4 {
   font-family: "Lato", "Source Sans Pro", sans-serif;
-}
-h5 {
-  font-size: 1.25em;
 }
 h4 {
   font-size: 1.563em;
 }
 h3 {
   font-size: 1.953em;
+  color: #c2410c;
 }
 h2 {
   font-size: 2.441em;
@@ -52,6 +44,17 @@ h1 {
 p,
 li {
   font-size: 1em;
+}
+a,
+a:visited {
+  color: #424242;
+  text-decoration: underline;
+  text-underline-offset: 0.3ex;
+}
+h3 a,
+h3 a:visited {
+  color: #c2410c;
+  text-decoration: unset;
 }
 
 
@@ -84,16 +87,6 @@ li {
 }
 .work-project:last-child {
   margin-bottom: 0;
-}
-.work-project a {
-  color: #424242;
-}
-.work-project h4 {
-  font-weight: 700;
-}
-.work-project h4,
-.work-project h4 a {
-  color: #b20000;
 }
 
 
