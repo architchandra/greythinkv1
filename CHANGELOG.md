@@ -4,7 +4,7 @@ Release notes for the Greythink.in website.
 
 
 
-## Unreleased
+## 1.4.0 - 2023-06-12
 
 ### Added
 - Added a couple of new work examples.
