@@ -56,6 +56,15 @@ h3 a:visited {
   color: #c2410c;
   text-decoration: unset;
 }
+.font-large {
+  font-size: 1.563em;
+}
+.font-xl {
+  font-size: 2.441em;
+}
+.text-black {
+  color: #424242;
+}
 
 
 
